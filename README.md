@@ -1,7 +1,10 @@
 # basic-chat
 Basic asynchronous chat utilizing sockets.
 # Usage
+Compile, then run like ./prog mode(client or server) server-address(if mode is client).
+
 In server mode: just let it run.
+
 In client mode: 
 - send user message
 
